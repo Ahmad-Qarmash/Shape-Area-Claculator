@@ -1,6 +1,6 @@
 # ShellScriptingTraining
 
-## Write a bash script that will calculate area of a shape (square, rectangle, circle or triangle).
+### Write a bash script that will calculate area of a shape (square, rectangle, circle or triangle).
 
 *	The script will show a menu of above options + exit option that will stop the script. 
 
