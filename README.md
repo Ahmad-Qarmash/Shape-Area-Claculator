@@ -14,7 +14,7 @@
 
 *	Then displays the above menu again till exit option is entered.
 
-## When exit option is entered:
+### When exit option is entered:
 *	Read file that contains calculated shape areas.
 
 *	Store shapes and their areas into arrays.
@@ -25,7 +25,7 @@
 
 *	Exit the script.
 
-## Please consider using:
+### Please consider using:
 *	Variables to store user input and area.
 
 *	Functions at least one for each shape option.
