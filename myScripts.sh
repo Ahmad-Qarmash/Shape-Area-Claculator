@@ -1,6 +1,6 @@
 #!/bin/sh
 #Start <Code Area>
-#start functions area
+#start <Functions area>
 database="./shapeDatabase.txt"
 validator(){
        # regular expression that accepts only positve integer values
@@ -105,7 +105,7 @@ finish(){
     fi
     exit 0
 }
-#end functions area
+#end <Functions area>
 #infinite loop to read the shape type
 while true 
 do
